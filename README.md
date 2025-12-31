@@ -7,6 +7,7 @@ tl; dr: What to know about AI:
 2.	AI has genuine accomplishments: e.g., AI protein folding won the 2024 Nobel Prize in Chemistry. 
 3.	AI also has hype cycles, and AI companies are trying to sell a product.
 
+
 AI resources
 1.	History of AI: autonomous robots, chatbots. 
 a.	The term “artificial intelligence” was invented in 1956 by John McCarthy for a Dartmouth summer program.
